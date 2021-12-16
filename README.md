@@ -1,3 +1,5 @@
+# [Writting Sample](WritingSample.md)
+
 # Tech Matters' Take-Home Project
 
 This project was part of Tech Matters' challenge. 
