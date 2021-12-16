@@ -1,4 +1,4 @@
-# [Writting Sample](WritingSample.md)
+# [Writing Sample](WritingSample.md)
 
 # Tech Matters' Take-Home Project
 

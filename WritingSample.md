@@ -1,4 +1,4 @@
-The following writting sample was extracted from [this repository](https://github.com/victorrborges/guava-challenge). It's a basic documentation for a project that was created as part of the interview process for a Brazillian company. That being said, it was originally written in portuguese.
+The following writing sample was extracted from [this repository](https://github.com/victorrborges/guava-challenge). It's a basic documentation for a project that was created as part of the interview process for a Brazillian company. That being said, it was originally written in portuguese.
 
 
 # [Guava To-Do Challenge](http://guava-todo-challenge.herokuapp.com/) 
